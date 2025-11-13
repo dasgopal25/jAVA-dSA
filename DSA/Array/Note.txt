@@ -1,0 +1,14 @@
+Definition of an Array:-
+ List of Elements of the same type placed in a contiguous memory location.
+
+ Here char size is taken as 1 bytes for simplicity.Java char takes up 2 bytes in memory.
+
+
+ Operation in array:
+   i.craete
+   ii.Input
+   iii.Output
+   iv.Update
+
+Creating an Array:-
+  DataType arrayName[] = new dataType[size];
