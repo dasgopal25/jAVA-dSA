@@ -1,0 +1,7 @@
+What is Recursion ?
+ Recursion is a method a solving a computational problem where the solution depends on solution to smaller instances of 
+ the same problem.
+
+"Base Case","call stack","stack overflow"
+
+fibonacci formula: fibN = fibN-1 + fibN -2
